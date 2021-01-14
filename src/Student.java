@@ -9,7 +9,7 @@ public class Student {
 
 	public static void main(String[] args) {
 		
-		
+		age =10;
 	  return;	
 
 	}
